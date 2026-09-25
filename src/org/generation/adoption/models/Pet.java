@@ -77,7 +77,7 @@ public abstract class Pet {
 
     /**
      * Fija un nuevo valor al atributo name
-     * @param newName tipo String
+     * @param "newName" tipo String
      */
 
     public void setName(String name) {
